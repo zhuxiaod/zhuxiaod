@@ -1,16 +1,55 @@
-### Hi there 👋
+# 个人简介
 
-<!--
-**zhuxiaod/zhuxiaod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 基本信息
 
-Here are some ideas to get you started:
+**姓名**： MissSunRise (小时候打游戏的名字🤣)	**年龄**：*25* 岁	**职业**：一个码仔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**爱好：**
+
+- 摄影、跑步、羽毛球、吃垃圾食品、听音乐
+- ~~篮球~~（*矮个子不适合巨人的运动*）😥
+
+**最喜欢的歌手：** Aimer、Lisa、JJ-Lin、Jay-chou
+
+**人生格言：**
+
+> 得不到的，代表不是最好的。🧐
+>
+> Less is more.🙂
+
+**一段代码：**
+
+``` python
+def main()：
+
+​	print("得不到的，代表不是最好的。") # 人生格言！
+
+​	if_name_=='_main_':
+
+​		main
+```
+
+
+
+## 联系方式
+
+**QQ Mail:** zhuxiaod_183202114@qq.com 👈
+
+
+
+## 待办事项
+
+**今年要跑的步：** 160km/500km
+
+**学习计划：**
+
+- Swift 学习
+- 网络协议
+- 数据结构与算法
+- 摄影课
+
+**修订记录：**
+
+|   时间    |   内容   | 版本 |
+| :-------: | :------: | :--: |
+| 2021.3.28 | 修订完毕 | v0.1 |
